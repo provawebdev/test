@@ -1,0 +1,43 @@
+Rules:
+
+1. First take a folder or directory with any name
+2. then open git bash cmd within that direcotory
+3. take git folder with <git init>command
+    do not touch or delete git folder becarefull
+4. then create any file you want then check git status
+    first it will be seen as an untracked file, we need to make
+    it tracked or staged file with <git add file_name> if there is 
+more than one file then short cut command <git add . >
+5. now it is staged , so it can be commited now which is the last step 
+for git <git commit -m "Any Messaged which is readable">
+how if we check <git status> then it will show working directory clean
+this is our last job . remember all of this is local repositiory
+
+now i will do same things again and again
+
+For Remote repository first if we want to keep our file
+then we have to sign up 
+I have already signed up
+1. first we have to add remote repository
+Branch
+
+CT means current time line jate amra deksi
+
+ai time line dia pesone ba samne jawa possible na
+ ata ke bola ji master branch
+akhon apni ak jai gai kaz korsen ami ak jaigai kaz korsi so sekhane
+problem holo amra duijone commit kore felesi so trouble roy gese 
+1950 sale so ata git theke data ar thik kora jabe na ba korte geleo prob
+hobe tw sejonno alada alada branch kora hoi
+tar mane keu jodi 1950 sale jete chi se arak ta time line dia jete hobe 
+take past e and take fire aste hole arak ta timeline dia fire aste hobe
+so vinno vinno time line gulu holo branch aki project e 
+jokhon apni kaz koren koreben ami kaz korbo amra jar jar branch 
+kaz korbo and commit korbo last e sobar jokon sesh final tw seta 
+branch merge kore dilam
+
+1. First we have to crate branch <git checkout -b branch_name>
+ai command dile sudu branch make e hobe na already switch o korbe
+by default brancher name holo master tw ata holo sudu akhon local e but ata ke 
+tw akhon remote e set korte hobe one thing 
+remember repository name is origin and branch name is master or student
